@@ -6,7 +6,7 @@ category: blog
 ---
 
 chrome会自动给密码框加样式，主要是背景：
-```
+```css
 input:-webkit-autofill,
 textarea:-webkit-autofill, 
 select:-webkit-autofill {    
