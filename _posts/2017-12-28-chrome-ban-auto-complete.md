@@ -2,7 +2,7 @@
 layout: post
 title: 关于chrome禁用密码自动填充
 description: chrome有很多人性化的设计，样式也比较好看，但是有的时候这反而会带来困扰，比如密码自动填充会带来一个很丑的黄色背景
-category: blog chrome html
+category: blog
 ---
 
 chrome会自动给密码框加样式，主要是背景：
